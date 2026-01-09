@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": "tom1",
+      "title": "Том 1",
+      "description": "Первый том семейной истории",
+      "pageCount": 534,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom1",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom1/page_0001.png"
+    },
+    {
+      "id": "tom2",
+      "title": "Том 2",
+      "description": "Второй том семейной истории",
+      "pageCount": 475,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom2",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom2/page_0001.png"
+    },
+    {
+      "id": "tom3",
+      "title": "Том 3",
+      "description": "Третий том семейной истории",
+      "pageCount": 581,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom3",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom3/page_0001.png"
+    },
+    {
+      "id": "tom4",
+      "title": "Том 4",
+      "description": "Четвертый том семейной истории",
+      "pageCount": 436,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom4",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom4/page_0001.png"
+    },
+    {
+      "id": "tom5",
+      "title": "Том 5",
+      "description": "Пятый том семейной истории",
+      "pageCount": 387,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom5",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom5/page_0001.png"
+    },
+    {
+      "id": "tom6",
+      "title": "Том 6",
+      "description": "Шестой том семейной истории",
+      "pageCount": 668,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom6",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom6/page_0001.png"
+    }
+  ]
+}
