@@ -47,6 +47,14 @@
       "pageCount": 668,
       "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom6",
       "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom6/page_0001.png"
+    },
+    {
+      "id": "tom7",
+      "title": "Том 7",
+      "description": "Седьмой том семейной истории",
+      "pageCount": 388,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom7",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom7/page_0001.png"
     }
   ]
 }
