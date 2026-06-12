@@ -4,7 +4,7 @@
       "id": "tom1",
       "title": "Том 1",
       "description": "Первый том семейной истории",
-      "pageCount": 534,
+      "pageCount": 535,
       "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom1",
       "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom1/page_0001.png"
     },
@@ -20,7 +20,7 @@
       "id": "tom3",
       "title": "Том 3",
       "description": "Третий том семейной истории",
-      "pageCount": 582,
+      "pageCount": 581,
       "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom3",
       "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom3/page_0001.png"
     },
