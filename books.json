@@ -55,6 +55,14 @@
       "pageCount": 388,
       "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom7",
       "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/tom7/page_0001.png"
+    },
+    {
+      "id": "book_1110904",
+      "title": "Түрік, қырғыз-қазақ Һәм ханлар шежіресі",
+      "description": "Құдайбердіұлы, Шах Керім",
+      "pageCount": 272,
+      "baseUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/book_1110904",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Almaz0430/genealogy-books/main/book_1110904/page_0001.png"
     }
   ]
 }
